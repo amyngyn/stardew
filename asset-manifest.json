@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/stardew/static/css/main.2cce8147.chunk.css",
+    "main.js": "/stardew/static/js/main.09ae1e23.chunk.js",
+    "main.js.map": "/stardew/static/js/main.09ae1e23.chunk.js.map",
+    "runtime~main.js": "/stardew/static/js/runtime~main.3f185830.js",
+    "runtime~main.js.map": "/stardew/static/js/runtime~main.3f185830.js.map",
+    "static/css/2.9e634053.chunk.css": "/stardew/static/css/2.9e634053.chunk.css",
+    "static/js/2.1fce9f49.chunk.js": "/stardew/static/js/2.1fce9f49.chunk.js",
+    "static/js/2.1fce9f49.chunk.js.map": "/stardew/static/js/2.1fce9f49.chunk.js.map",
+    "index.html": "/stardew/index.html",
+    "precache-manifest.e188b99b9098866f79ede6e9d1e8053c.js": "/stardew/precache-manifest.e188b99b9098866f79ede6e9d1e8053c.js",
+    "service-worker.js": "/stardew/service-worker.js",
+    "static/css/2.9e634053.chunk.css.map": "/stardew/static/css/2.9e634053.chunk.css.map",
+    "static/css/main.2cce8147.chunk.css.map": "/stardew/static/css/main.2cce8147.chunk.css.map",
+    "static/media/katex.min.css": "/stardew/static/media/KaTeX_Typewriter-Regular.e52da442.woff"
+  }
+}
