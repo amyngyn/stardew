@@ -114,7 +114,7 @@ class StardewCalculator extends React.Component {
 
   render() {
     return (
-      <div>
+      <div className="calculator-box">
         <h1>How likely is it that you'll grow at least five golden crops?</h1>
         <form onSubmit={this.handleSubmit}>
           <label>

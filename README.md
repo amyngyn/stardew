@@ -1,3 +1,8 @@
+# Stardew Valley Calculator
+This is a scratchpad for me to show calculations for different scenarios in Stardew Valley. Try it out at [amyngyn.github.io/stardew/](https://amyngyn.github.io/stardew/).
+
+# Create React App boilerplate
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
